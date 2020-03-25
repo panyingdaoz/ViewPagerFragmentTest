@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPagerFragmentTest</string>
+    <string name="app_upgrade_tip_title">Release Notes (%1$s)</string>
+    <string name="common_example">示例图片</string>
+</resources>
